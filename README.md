@@ -1,4 +1,3 @@
-<b>A HashMap is a data structure that stores key-value pairs, allowing for fast retrieval of values based on keys using a hash function.</b>
+<span style="color: blue; font-weight: bold;">HashMap is a data structure that stores key-value pairs, allowing for fast retrieval of values based on keys using a hash function.</span>
 <br>
-
-these are the some questions that utilizes the concept of Hashmap.
+These are the some questions that utilizes the concept of Hashmap.
